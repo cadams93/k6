@@ -1,4 +1,4 @@
-module go.k6.io/k6
+module github.com/cadams93/k6
 
 go 1.19
 
