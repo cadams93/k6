@@ -2,6 +2,8 @@ module github.com/cadams93/k6
 
 go 1.19
 
+replace go.k6.io/k6 => github.com/cadams93/k6
+
 require (
 	github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358
 	github.com/DataDog/datadog-go v0.0.0-20180330214955-e67964b4021a
